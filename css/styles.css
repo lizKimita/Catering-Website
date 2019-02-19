@@ -1,0 +1,13 @@
+.header-img {
+  background-image: url("../images/foods1.jpg");
+  height: 300px;
+  text-align: center;
+  color: teal;
+  font-weight: bolder;
+  font-size: 500%;
+}
+#slogan {
+  font-size: 50%;
+  font-style: italic;
+  color: white;
+}
