@@ -3,8 +3,10 @@ $(document).ready(function(){
     $(".fade1").fadeToggle();
   });
   $("button#background-change").click(function(){
-  
     $("table").addClass("black-background");
+  });
+  $("button#original-background").click(function(){
+    $("table").removeClass();
   });
 
 });
