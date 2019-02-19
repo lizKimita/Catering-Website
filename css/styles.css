@@ -11,3 +11,8 @@
   font-style: italic;
   color: white;
 }
+.panel-footer {
+  text-align: center;
+  font-weight: bold;
+  font-style: italic;
+}
