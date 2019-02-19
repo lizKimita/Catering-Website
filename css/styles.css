@@ -30,3 +30,8 @@ td {
 th {
   font-size: 200%;
 }
+#menus {
+  text-align: center;
+  font-weight: bold;
+  font-size: 150%;
+}
