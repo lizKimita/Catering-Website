@@ -35,3 +35,7 @@ th {
   font-weight: bold;
   font-size: 150%;
 }
+.black-background{
+  background-color: #97675D;
+  color: silver;
+}
